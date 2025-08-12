@@ -49,8 +49,8 @@ It will provide you the **Access Key** and **Secret Access Key** (you can only s
 Now, in the `Load.ipynb` script, replace with your credentials:
 
 ```
-scope_name = 'aws-keys' # Your scope name
+scope_name = <your-scope-name>
 ACCESS_KEY = dbutils.secrets.get(scope=scope_name, key="AWS_ACCESS_KEY_ID") # Your AWS Access Key
 SECRET_KEY = dbutils.secrets.get(scope=scope_name, key="AWS_SECRET_ACCESS_KEY") # Your AWS Secret Key
-AWS_BUCKET_NAME = "csv-databricks-etl" # Your S3 Bucket Name
+AWS_BUCKET_NAME = "bucket-name" # Your S3 Bucket Name
 ```
