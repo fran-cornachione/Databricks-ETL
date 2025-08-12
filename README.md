@@ -1,3 +1,5 @@
+![image alt](https://github.com/fran-cornachione/Databricks-ETL/blob/9c19ecf5be783626881439feb9d13173bc446d90/Cover.png)
+
 # ¡IMPORTANT!
 
 This Workflow is meant to be run on **Databricks**. If you try running it on Visual Studio Code, Google Colab, or any other environment, It will not work properly.
