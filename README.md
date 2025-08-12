@@ -10,10 +10,11 @@ This Workflow is meant to be run on **Databricks**. If you try running it on Vis
 
 ## Virtual Environment
 
-* **Clone repo:** `git clone https://github.com/fran-cornachione/Databricks-ETL`
 * **Create a virtual environment:** `python -m venv <virtual-environment-name>`
+* * **Activate it:** `.\<virtual-environment-name>\Scripts\Activate.ps1`
+* **Clone repo:** `git clone https://github.com/fran-cornachione/Databricks-ETL`
 * **Install requirements:** `pip install -r requirements.txt`
-* **Activate it:** `.\<virtual-environment-name>\Scripts\Activate.ps1`
+
 
 ## AWS
 
@@ -40,9 +41,9 @@ It will provide you the **Access Key** and **Secret Access Key** (you can only s
 **Token:** Insert your Databricks Token
 
 1. `databricks secrets create-scope <scope-name>`
-2. `databricks secrets put-scope aws-secrets --key AWS_ACCESS_KEY_ID`
+2. `databricks secrets put-scope <scope-name> --key AWS_ACCESS_KEY_ID`
 3. Insert your **AWS Access Key**
-4. `databricks secrets put-scope aws-secrets --key AWS_SECRET_ACCESS_KEY`
+4. `databricks secrets put-scope <scope-name> --key AWS_SECRET_ACCESS_KEY`
 5. Insert your **AWS Secret Access Key**
 
 Now, in the `Load.ipynb` script, replace with your credentials:
