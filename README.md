@@ -1,6 +1,6 @@
 # ¡IMPORTANT!
 
-This Workflow is meant to be run on **Databricks**. If you try running it on Visual Studio Code, Google Colab, or any other environment, It will probably not work properly.
+This Workflow is meant to be run on **Databricks**. If you try running it on Visual Studio Code, Google Colab, or any other environment, It will not work properly.
 
 (No need to install PySpark since it comes pre-installed in Databricks)
 
