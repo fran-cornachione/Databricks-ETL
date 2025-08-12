@@ -11,7 +11,7 @@ This Workflow is meant to be run on **Databricks**. If you try running it on Vis
 ## Virtual Environment
 
 * **Create a virtual environment:** `python -m venv <virtual-environment-name>`
-* * **Activate it:** `.\<virtual-environment-name>\Scripts\Activate.ps1`
+* **Activate it:** `.\<virtual-environment-name>\Scripts\Activate.ps1`
 * **Clone repo:** `git clone https://github.com/fran-cornachione/Databricks-ETL`
 * **Install requirements:** `pip install -r requirements.txt`
 
