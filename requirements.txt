@@ -1,0 +1,2 @@
+boto3=1.40.1
+databricks-cli=0.18.0
