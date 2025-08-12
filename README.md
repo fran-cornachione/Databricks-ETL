@@ -8,6 +8,12 @@ This Workflow is meant to be run on **Databricks**. If you try running it on Vis
 
 ---
 
+## Project Structure
+
+**raw_data:** Contains the raw `.csv` files, with default schema
+**bronze_layer:** Contains the `.csv` files, with **defined schema**
+
+
 ## Virtual Environment
 
 * **Create a virtual environment:** `python -m venv <virtual-environment-name>`
