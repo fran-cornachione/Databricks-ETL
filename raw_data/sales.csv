@@ -1,0 +1,102 @@
+sale_id,customer_id,employee_id,product,category,amount,sale_date,payment_method
+1,5,3,Wireless Mouse,Electronics,29.99,2023-04-12 10:15:00,Credit Card
+2,12,7,Gaming Keyboard,Electronics,89.99,2023-04-13 11:25:30,Cash
+3,23,15,Running Shoes,Sports,120.00,2023-04-13 12:05:45,Credit Card
+4,8,21,Coffee Maker,Home Appliances,79.99,2023-04-14 09:45:10,Debit Card
+5,45,33,Office Chair,Furniture,199.99,2023-04-15 14:30:25,Credit Card
+6,39,42,Bluetooth Speaker,Electronics,59.99,2023-04-16 15:10:50,Credit Card
+7,60,50,Electric Kettle,Home Appliances,39.99,2023-04-16 16:45:00,Cash
+8,55,12,Yoga Mat,Sports,25.00,2023-04-17 08:20:15,Debit Card
+9,30,19,LED Monitor,Electronics,150.00,2023-04-17 09:55:30,Credit Card
+10,42,23,Smartphone,Electronics,699.99,2023-04-18 10:10:45,Credit Card
+11,18,35,Water Bottle,Sports,15.00,2023-04-18 11:30:20,Cash
+12,14,27,Desk Lamp,Furniture,45.99,2023-04-19 12:40:35,Debit Card
+13,9,8,Noise Cancelling Headphones,Electronics,129.99,2023-04-20 13:55:50,Credit Card
+14,37,16,Backpack,Fashion,49.99,2023-04-21 14:20:10,Cash
+15,21,6,Treadmill,Sports,499.99,2023-04-21 15:30:25,Credit Card
+16,52,25,Smartwatch,Electronics,199.99,2023-04-22 16:40:40,Debit Card
+17,33,13,Coffee Grinder,Home Appliances,89.99,2023-04-23 10:10:05,Credit Card
+18,44,29,Sofa,Furniture,799.99,2023-04-23 11:55:30,Credit Card
+19,25,40,Running Shorts,Sports,35.00,2023-04-24 12:20:45,Cash
+20,47,44,Wireless Charger,Electronics,29.99,2023-04-25 13:30:00,Debit Card
+21,3,5,Electric Toothbrush,Home Appliances,49.99,2023-04-26 09:15:20,Credit Card
+22,10,9,Leather Wallet,Fashion,39.99,2023-04-26 10:05:30,Cash
+23,28,11,Smart TV,Electronics,999.99,2023-04-27 11:45:10,Debit Card
+24,31,14,Yoga Pants,Sports,45.00,2023-04-28 12:30:50,Credit Card
+25,15,18,Blender,Home Appliances,59.99,2023-04-28 13:40:00,Credit Card
+26,6,22,Running Shoes,Sports,120.00,2023-04-29 14:50:15,Cash
+27,50,24,Cotton T-shirt,Fashion,19.99,2023-04-29 15:30:45,Debit Card
+28,11,28,Desk Organizer,Furniture,25.99,2023-04-30 08:25:35,Credit Card
+29,7,32,Wireless Earbuds,Electronics,79.99,2023-04-30 09:45:20,Credit Card
+30,49,36,Office Desk,Furniture,299.99,2023-05-01 10:55:40,Credit Card
+31,17,38,Waterproof Jacket,Fashion,89.99,2023-05-01 11:40:10,Cash
+32,24,41,Espresso Machine,Home Appliances,349.99,2023-05-02 12:50:55,Credit Card
+33,22,43,Football,Sports,25.00,2023-05-03 13:20:30,Cash
+34,13,46,LED Desk Lamp,Home Appliances,35.99,2023-05-04 14:10:15,Debit Card
+35,20,48,Smartphone Case,Electronics,19.99,2023-05-04 15:05:25,Credit Card
+36,26,51,Bookshelf,Furniture,120.00,2023-05-05 16:30:40,Cash
+37,34,53,Running Socks,Sports,12.00,2023-05-06 09:15:00,Credit Card
+38,19,55,Vacuum Cleaner,Home Appliances,149.99,2023-05-06 10:25:35,Debit Card
+39,27,58,Denim Jeans,Fashion,59.99,2023-05-07 11:50:20,Credit Card
+40,16,60,Wireless Router,Electronics,89.99,2023-05-07 12:40:10,Cash
+41,8,62,Smartwatch,Electronics,199.99,2023-05-08 13:15:22,Credit Card
+42,29,64,Running Shoes,Sports,130.00,2023-05-09 14:30:45,Cash
+43,36,66,Desk Chair,Furniture,150.00,2023-05-09 15:45:10,Debit Card
+44,4,68,Bluetooth Headphones,Electronics,79.99,2023-05-10 09:20:15,Credit Card
+45,14,70,Yoga Mat,Sports,30.00,2023-05-10 10:35:25,Cash
+46,21,72,Espresso Machine,Home Appliances,399.99,2023-05-11 11:50:40,Credit Card
+47,38,74,Cotton T-shirt,Fashion,22.99,2023-05-11 12:45:55,Debit Card
+48,43,76,LED Monitor,Electronics,160.00,2023-05-12 13:55:30,Credit Card
+49,35,78,Office Desk,Furniture,320.00,2023-05-12 15:10:05,Cash
+50,50,80,Running Shorts,Sports,35.00,2023-05-13 16:25:40,Credit Card
+51,12,82,Wireless Mouse,Electronics,29.99,2023-05-14 09:05:20,Debit Card
+52,47,84,Gaming Keyboard,Electronics,89.99,2023-05-14 10:20:35,Credit Card
+53,25,86,Coffee Maker,Home Appliances,79.99,2023-05-15 11:30:50,Cash
+54,31,88,Yoga Pants,Sports,45.00,2023-05-15 12:45:15,Debit Card
+55,9,90,Noise Cancelling Headphones,Electronics,129.99,2023-05-16 13:55:30,Credit Card
+56,19,92,Backpack,Fashion,49.99,2023-05-16 15:10:45,Cash
+57,6,94,Treadmill,Sports,499.99,2023-05-17 16:25:00,Debit Card
+58,40,96,Smartwatch,Electronics,199.99,2023-05-17 17:40:20,Credit Card
+59,17,98,Coffee Grinder,Home Appliances,89.99,2023-05-18 09:15:40,Cash
+60,22,100,Sofa,Furniture,799.99,2023-05-18 10:30:55,Debit Card
+61,13,102,Running Shoes,Sports,125.00,2023-05-19 11:45:20,Credit Card
+62,28,104,Wireless Charger,Electronics,29.99,2023-05-19 13:00:35,Cash
+63,34,106,Office Chair,Furniture,220.00,2023-05-20 14:15:50,Debit Card
+64,11,108,Smartphone,Electronics,699.99,2023-05-20 15:30:05,Credit Card
+65,15,110,Desk Lamp,Furniture,45.99,2023-05-21 09:45:10,Cash
+66,9,112,Yoga Mat,Sports,27.50,2023-05-21 11:00:25,Debit Card
+67,6,114,Leather Wallet,Fashion,39.99,2023-05-22 12:15:40,Credit Card
+68,25,116,Bluetooth Speaker,Electronics,59.99,2023-05-22 13:30:55,Cash
+69,40,118,Running Socks,Sports,12.00,2023-05-23 14:45:10,Debit Card
+70,18,120,Coffee Maker,Home Appliances,79.99,2023-05-23 16:00:25,Credit Card
+71,32,122,Smartwatch,Electronics,199.99,2023-05-24 09:15:40,Cash
+72,29,124,Electric Toothbrush,Home Appliances,49.99,2023-05-24 10:30:55,Debit Card
+73,37,126,Backpack,Fashion,49.99,2023-05-25 11:45:10,Credit Card
+74,20,128,Desk Organizer,Furniture,25.99,2023-05-25 13:00:25,Cash
+75,44,130,Yoga Pants,Sports,45.00,2023-05-26 14:15:40,Debit Card
+76,22,132,Smart TV,Electronics,999.99,2023-05-26 15:30:55,Credit Card
+77,27,134,Cotton T-shirt,Fashion,19.99,2023-05-27 09:15:10,Cash
+78,30,136,Vacuum Cleaner,Home Appliances,149.99,2023-05-27 10:30:25,Debit Card
+79,35,138,Running Shorts,Sports,35.00,2023-05-28 11:45:40,Credit Card
+80,13,140,Wireless Earbuds,Electronics,79.99,2023-05-28 13:00:55,Cash
+81,21,142,Smartphone Case,Electronics,19.99,2023-05-29 14:15:20,Debit Card
+82,18,144,Office Desk,Furniture,320.00,2023-05-29 15:30:35,Credit Card
+83,24,146,Yoga Mat,Sports,30.00,2023-05-30 09:45:50,Cash
+84,31,148,LED Monitor,Electronics,160.00,2023-05-30 11:00:05,Debit Card
+85,15,150,Coffee Grinder,Home Appliances,89.99,2023-05-31 12:15:20,Credit Card
+86,28,152,Treadmill,Sports,499.99,2023-05-31 13:30:35,Cash
+87,34,154,Backpack,Fashion,49.99,2023-06-01 14:45:50,Debit Card
+88,9,156,Smartwatch,Electronics,199.99,2023-06-01 16:00:05,Credit Card
+89,6,158,Running Socks,Sports,12.00,2023-06-02 09:15:20,Cash
+90,19,160,Vacuum Cleaner,Home Appliances,149.99,2023-06-02 10:30:35,Debit Card
+91,25,162,Wireless Mouse,Electronics,29.99,2023-06-03 11:45:50,Credit Card
+92,40,164,Gaming Keyboard,Electronics,89.99,2023-06-03 13:00:05,Cash
+93,17,166,Coffee Maker,Home Appliances,79.99,2023-06-04 14:15:20,Debit Card
+94,22,168,Leather Wallet,Fashion,39.99,2023-06-04 15:30:35,Credit Card
+95,27,170,Electric Toothbrush,Home Appliances,49.99,2023-06-05 09:45:50,Cash
+96,30,172,Desk Lamp,Furniture,45.99,2023-06-05 11:00:05,Debit Card
+97,35,174,Running Shoes,Sports,120.00,2023-06-06 12:15:20,Credit Card
+98,13,176,Wireless Charger,Electronics,29.99,2023-06-06 13:30:35,Cash
+99,21,178,Smartphone,Electronics,699.99,2023-06-07 14:45:50,Debit Card
+100,18,180,Desk Organizer,Furniture,25.99,2023-06-07 16:00:05,Credit Card
+

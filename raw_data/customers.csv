@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone_number,country,created_at
+1,Emma,Thompson,emma.thompson@example.com,+1-202-555-0171,United States,2021-06-14 10:23:45
+2,Noah,Anderson,noah.anderson@example.com,+44-7911-123456,United Kingdom,2020-12-05 09:15:30
+3,Isabella,Martinez,isabella.martinez@example.com,+34-612-345-678,Spain,2022-03-22 16:42:10
+4,Liam,Nguyen,liam.nguyen@example.com,+61-412-345-678,Australia,2021-08-07 11:58:21
+5,Ava,Schmidt,ava.schmidt@example.com,+49-1512-1234567,Germany,2023-01-18 14:33:50
+6,Ethan,Rossi,ethan.rossi@example.com,+39-345-678-9012,Italy,2022-07-10 17:20:00
+7,Sofia,Leblanc,sofia.leblanc@example.com,+33-6-12-34-56-78,France,2021-02-27 08:47:33
+8,Lucas,Kowalski,lucas.kowalski@example.com,+48-501-234-567,Poland,2020-09-03 12:11:44
+9,Mia,Santos,mia.santos@example.com,+55-21-91234-5678,Brazil,2023-04-01 15:10:55
+10,Alexander,Tan,alexander.tan@example.com,+65-9123-4567,Singapore,2022-06-23 19:05:12
+11,Amelia,Garcia,amelia.garcia@example.com,+34-698-765-432,Spain,2020-11-14 09:20:38
+12,Benjamin,Larsson,benjamin.larsson@example.com,+46-70-123-4567,Sweden,2021-04-08 13:40:21
+13,Charlotte,Yamamoto,charlotte.yamamoto@example.com,+81-90-1234-5678,Japan,2022-09-16 18:55:10
+14,Henry,Kim,henry.kim@example.com,+82-10-2345-6789,South Korea,2021-01-30 07:18:00
+15,Evelyn,Petrov,evelyn.petrov@example.com,+7-912-345-6789,Russia,2023-02-05 16:12:33
+16,James,Dubois,james.dubois@example.com,+33-7-65-43-21-09,France,2020-10-11 14:03:09
+17,Scarlett,Meier,scarlett.meier@example.com,+49-170-1234567,Germany,2022-12-20 20:00:01
+18,Daniel,Ramirez,daniel.ramirez@example.com,+52-55-1234-5678,Mexico,2021-05-22 11:47:49
+19,Victoria,Aliyev,victoria.aliyev@example.com,+994-50-123-4567,Azerbaijan,2023-03-15 09:29:10
+20,Matthew,Johansson,matthew.johansson@example.com,+46-76-987-6543,Sweden,2021-07-01 12:00:00
+21,Grace,Takahashi,grace.takahashi@example.com,+81-80-1122-3344,Japan,2020-08-25 08:35:47
+22,Jack,Silva,jack.silva@example.com,+55-11-98765-4321,Brazil,2022-11-10 17:23:50
+23,Chloe,Weber,chloe.weber@example.com,+49-172-9876543,Germany,2021-03-19 10:17:05
+24,Logan,Nakamura,logan.nakamura@example.com,+81-90-8765-4321,Japan,2023-01-04 15:45:00
+25,Emily,Kowalska,emily.kowalska@example.com,+48-503-456-789,Poland,2022-05-12 09:25:10
+26,Daniela,Moreno,daniela.moreno@example.com,+34-667-890-123,Spain,2021-09-09 13:15:35
+27,Thomas,Bennett,thomas.bennett@example.com,+44-7555-112233,United Kingdom,2020-12-29 16:40:55
+28,Lily,Rossi,lily.rossi@example.com,+39-347-890-1234,Italy,2023-02-08 11:32:44
+29,Jayden,Lebedev,jayden.lebedev@example.com,+7-999-888-7766,Russia,2021-06-01 18:22:10
+30,Zoey,Nguyen,zoey.nguyen@example.com,+84-91-234-5678,Vietnam,2022-10-13 07:45:33
+31,Leo,Galli,leo.galli@example.com,+39-349-112-2233,Italy,2020-07-17 12:11:09
+32,Nora,Popescu,nora.popescu@example.com,+40-722-123-456,Romania,2021-11-27 19:34:20
+33,Julian,Hussein,julian.hussein@example.com,+971-50-123-4567,UAE,2022-04-19 14:29:30
+34,Stella,Klein,stella.klein@example.com,+49-160-7891234,Germany,2020-09-21 10:55:45
+35,Ryan,Delgado,ryan.delgado@example.com,+52-33-1234-5678,Mexico,2021-02-10 08:16:18
+36,Zoé,Lemoine,zoe.lemoine@example.com,+33-6-45-67-89-01,France,2023-03-02 16:10:07
+37,Oscar,Chen,oscar.chen@example.com,+86-138-1234-5678,China,2022-07-05 12:50:23
+38,Mila,Arias,mila.arias@example.com,+54-9-11-1234-5678,Argentina,2020-11-18 13:38:45
+39,Isaac,Torres,isaac.torres@example.com,+1-303-555-0123,United States,2021-05-09 11:14:00
+40,Clara,Jimenez,clara.jimenez@example.com,+34-678-901-234,Spain,2022-01-15 09:59:12
+41,Elijah,Peterson,elijah.peterson@example.com,+1-415-555-0199,United States,2020-06-23 14:12:55
+42,Audrey,Murphy,audrey.murphy@example.com,+44-7700-900123,United Kingdom,2021-08-15 10:05:34
+43,Mateo,Rodriguez,mateo.rodriguez@example.com,+54-9-11-9876-5432,Argentina,2022-12-01 18:29:10
+44,Hannah,Stevens,hannah.stevens@example.com,+61-423-123-456,Australia,2021-04-12 12:45:20
+45,Caleb,Moreau,caleb.moreau@example.com,+33-6-78-90-12-34,France,2020-10-09 09:38:15
+46,Lila,Kim,lila.kim@example.com,+82-10-3456-7890,South Korea,2022-05-17 16:44:50
+47,Wyatt,Müller,wyatt.muller@example.com,+49-170-1234567,Germany,2021-03-28 11:22:31
+48,Maya,Garcia,maya.garcia@example.com,+34-612-345-678,Spain,2020-09-05 15:20:40
+49,James,Lee,james.lee@example.com,+1-202-555-0156,United States,2023-02-10 10:11:23
+50,Alice,Nguyen,alice.nguyen@example.com,+61-412-345-679,Australia,2021-06-18 09:07:12
+51,Victor,Ramos,victor.ramos@example.com,+52-55-1234-5678,Mexico,2020-11-23 17:33:55
+52,Aria,Carvalho,aria.carvalho@example.com,+55-21-98765-4321,Brazil,2022-08-01 12:44:20
+53,Oliver,Perez,oliver.perez@example.com,+34-698-765-432,Spain,2021-01-16 14:30:07
+54,Sienna,Johansson,sienna.johansson@example.com,+46-70-123-4567,Sweden,2020-07-10 08:15:55
+55,Mason,Chen,mason.chen@example.com,+86-138-1234-5678,China,2022-03-22 19:05:33
+56,Isla,Martins,isla.martins@example.com,+351-912-345-678,Portugal,2021-12-15 11:23:44
+57,Leo,Rossi,leo.rossi@example.com,+39-347-890-1234,Italy,2020-05-20 10:10:10
+58,Amara,Williams,amara.williams@example.com,+1-415-555-0133,United States,2022-09-05 13:45:25
+59,Luke,Sanchez,luke.sanchez@example.com,+52-33-1234-5678,Mexico,2021-02-20 16:11:59
+60,Chloe,Kumar,chloe.kumar@example.com,+91-98765-43210,India,2020-10-03 12:22:47
+61,Isabel,Diaz,isabel.diaz@example.com,+34-678-901-235,Spain,2021-08-29 09:40:00
+62,Ezra,Clark,ezra.clark@example.com,+1-212-555-0177,United States,2020-12-10 15:50:30
+63,Anna,Peterson,anna.peterson@example.com,+44-7700-900124,United Kingdom,2022-03-18 10:22:55
+64,Jayden,Morales,jayden.morales@example.com,+54-9-11-1234-5678,Argentina,2021-07-14 17:12:44
+65,Julia,Brooks,julia.brooks@example.com,+61-423-123-457,Australia,2020-05-25 12:44:33
+66,Elena,Fischer,elena.fischer@example.com,+49-1512-1234567,Germany,2022-01-29 09:11:12
+67,Samuel,Cruz,samuel.cruz@example.com,+52-55-9876-5432,Mexico,2021-10-30 11:29:19
+68,Lara,Ortiz,lara.ortiz@example.com,+34-699-876-543,Spain,2020-07-16 14:55:20
+69,Calvin,Edwards,calvin.edwards@example.com,+1-303-555-0145,United States,2022-08-07 16:20:15
+70,Sophia,Nguyen,sophia.nguyen@example.com,+61-412-345-670,Australia,2021-03-19 13:33:30
+71,Jaxon,Lopez,jaxon.lopez@example.com,+34-698-765-433,Spain,2020-09-11 10:44:07
+72,Elise,Hall,elise.hall@example.com,+44-7555-112234,United Kingdom,2022-05-23 11:02:44
+73,Mateo,Ramos,mateo.ramos@example.com,+52-33-9876-5432,Mexico,2021-11-29 12:15:23
+74,Mia,Kim,mia.kim@example.com,+82-10-2345-6790,South Korea,2020-06-15 09:22:33
+75,Oliver,Powell,oliver.powell@example.com,+1-202-555-0110,United States,2022-12-01 10:11:12
+76,Lena,Hansen,lena.hansen@example.com,+45-40-123-4567,Denmark,2021-04-05 16:45:20
+77,Caleb,Jones,caleb.jones@example.com,+1-415-555-0182,United States,2020-03-18 14:33:10
+78,Sophia,Garcia,sophia.garcia@example.com,+34-612-345-679,Spain,2022-07-21 11:18:55
+79,Eli,Morris,eli.morris@example.com,+44-7911-987654,United Kingdom,2021-02-28 09:55:44
+80,Isabella,Martinez,isabella.martinez@example.com,+55-21-91234-5679,Brazil,2020-08-17 12:00:33
+81,Lucas,Martinez,lucas.martinez@example.com,+34-698-765-434,Spain,2021-09-30 13:22:45
+82,Avery,Lopez,avery.lopez@example.com,+1-213-555-0198,United States,2020-05-12 09:15:21
+83,Nora,Clark,nora.clark@example.com,+44-7700-900125,United Kingdom,2022-02-18 16:44:33
+84,Henry,Garcia,henry.garcia@example.com,+54-9-11-1234-5679,Argentina,2021-06-07 14:08:09
+85,Lila,Foster,lila.foster@example.com,+61-423-123-458,Australia,2020-10-23 12:30:50
+86,Evan,Kim,evan.kim@example.com,+82-10-3456-7891,South Korea,2022-11-16 10:22:11
+87,Scarlett,Diaz,scarlett.diaz@example.com,+34-678-901-236,Spain,2021-03-19 17:44:23
+88,Oliver,Perez,oliver.perez@example.com,+1-202-555-0183,United States,2020-07-28 11:55:32
+89,Aurora,Martinez,aurora.martinez@example.com,+44-7555-112235,United Kingdom,2022-04-08 13:33:29
+90,Leo,Gonzalez,leo.gonzalez@example.com,+54-9-11-9876-5433,Argentina,2021-08-10 15:18:40
+91,Chloe,Hansen,chloe.hansen@example.com,+45-40-123-4568,Denmark,2020-09-19 10:44:22
+92,Mason,Brown,mason.brown@example.com,+1-415-555-0134,United States,2022-01-29 09:50:10
+93,Luna,Garcia,luna.garcia@example.com,+34-612-345-680,Spain,2021-11-03 14:21:55
+94,Jack,Evans,jack.evans@example.com,+44-7700-900126,United Kingdom,2020-03-11 12:44:09
+95,Sofia,Rodriguez,sofia.rodriguez@example.com,+54-9-11-1234-5670,Argentina,2022-07-27 17:30:22
+96,Henry,Scott,henry.scott@example.com,+61-423-123-459,Australia,2021-05-15 11:13:55
+97,Ava,Moreno,ava.moreno@example.com,+34-698-765-435,Spain,2020-12-19 16:44:10
+98,Caleb,Lewis,caleb.lewis@example.com,+1-202-555-0111,United States,2022-03-23 13:55:45
+99,Ella,Martinez,ella.martinez@example.com,+44-7555-112236,United Kingdom,2021-07-30 09:40:22
+100,Samuel,Nguyen,samuel.nguyen@example.com,+61-412-345-681,Australia,2020-08-05 15:33:12
