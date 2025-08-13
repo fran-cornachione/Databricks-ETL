@@ -15,7 +15,6 @@ This Workflow is meant to be run on **Databricks**. If you try running it on Vis
 * **Clone repo:** `git clone https://github.com/fran-cornachione/Databricks-ETL`
 * **Install requirements:** `pip install -r requirements.txt`
 
-
 ## AWS
 
 * Go to AWS --> Users --> Create User
