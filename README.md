@@ -25,7 +25,7 @@ This Workflow is meant to be run on **Databricks**. If you try running it on Vis
 * Select "**Create Access key**"
 * Select "**Application running outside AWS**"
 
-## Databricks
+## Databricks CLI
 
 It will provide you the **Access Key** and **Secret Access Key** (you can only see it **once**, make sure to **save it**)
 
@@ -44,6 +44,8 @@ It will provide you the **Access Key** and **Secret Access Key** (you can only s
 3. Insert your **AWS Access Key**
 4. `databricks secrets put-secret <scope-name> AWS_SECRET_ACCESS_KEY`
 5. Insert your **AWS Secret Access Key**
+
+> You can also do this by UI with the [Databricks Extension](https://marketplace.visualstudio.com/itemdetails?itemName=databricks.databricks) for Visual Studio Code
 
 Now, in the `Load.ipynb` script, replace with your credentials:
 
